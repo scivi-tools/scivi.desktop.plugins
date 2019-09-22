@@ -1,1 +1,5 @@
-# scivi.desktop.plugins
+# SciVi desktop plugins
+
+## Plugins
+* Firmware generation plugin
+

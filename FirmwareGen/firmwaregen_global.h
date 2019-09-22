@@ -1,0 +1,12 @@
+#ifndef FIRMWAREGEN_GLOBAL_H
+#define FIRMWAREGEN_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#ifdef FIRMWAREGEN_LIBRARY
+#define FIRMWAREGEN_EXPORT Q_DECL_EXPORT
+#else
+#define FIRMWAREGEN_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // FIRMWAREGEN_GLOBAL_H

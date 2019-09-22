@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FirmwareGenDialog.qml</file>
+        <file>codegen.py</file>
+        <file>onto.py</file>
+    </qresource>
+</RCC>

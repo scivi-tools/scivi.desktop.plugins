@@ -1,0 +1,5 @@
+module FirmwareGen
+FirmwareGenDialog 0.1 FirmwareGenDialog.qml
+plugin FirmwareGenPlugin
+classname FirmwareGen
+typeinfo plugins.qmltypes

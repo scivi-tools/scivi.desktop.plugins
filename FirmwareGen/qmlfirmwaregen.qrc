@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/FirmwareGen">
+        <file>qmldir</file>
+        <file>qml/FirmwareGenDialog.qml</file>
+        <file>py/codegen.py</file>
+        <file>py/onto.py</file>
+    </qresource>
+</RCC>
